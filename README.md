@@ -45,11 +45,11 @@ if __name__ == '__main__':
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&langs_count=10&theme=flag-india&layout=compact" alt="RupeshMax :: Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&langs_count=10&theme=flag-india&layout=compact" alt="RupeshMax :: Top Langs" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&langs_count=4&theme=flag-india" alt="RupeshMax :: Wakatime" />
 </p>
 
-<h3>  Connect with Me 🤝🏻</h3>
+<h2 align="center">  Connect with Me 🤝🏻</h2>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/RupeshMaxpain" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
