@@ -16,7 +16,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RupeshMax&show_icons=true&theme=synthwave" alt="RupeshMax :: Profile Stats" /></p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 <!--
 **RupeshMax/RupeshMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
