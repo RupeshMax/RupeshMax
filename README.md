@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi!, I'm Rubesh KR 👋
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitor's count </h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{RupeshMax}/count.svg" alt="RupeshMax :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&langs_count=10&theme=tokyonight&layout=compact" alt="RupeshMax :: Top Langs" /></p>
 
@@ -19,21 +19,30 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&show_icons=true)
 
 
-```js
-import SoftwareDeveloper from 'thompsonemerson';
+```python
+class RupeshMax:
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
-}
+    def __init__(self):
+        self.username = 'rupesh_max_07'
+        self.name = 'Rubesh KR'
+        self.web = 'rupeshmax.github.io'
+        self.twitter = '@RupeshMaxpain'
+        self.code = {
+            'languages' : ['Python', 'Go'],
+            'frontend'  : ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
+            'backend'   : ['PHP', 'Django', 'NodeJS', 'Odoo'],
+            'database'  : ['PostgreSQL', 'MySQL', 'SQLite3']
+        }
+        
+    
+    def __str__(self):
+        return self.name
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
-}
+
+if __name__ == '__main__':
+    me = RupeshMax()
+
+
 ```
 
 
