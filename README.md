@@ -40,13 +40,13 @@ if __name__ == '__main__':
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RupeshMax&show_icons=true&theme=synthwave" alt="RupeshMax :: Profile Stats" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RupeshMax&show_icons=true&theme=flag-india" alt="RupeshMax :: Profile Stats" /> </p>
 
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&langs_count=10&theme=tokyonight&layout=compact" alt="RupeshMax :: Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&langs_count=10&theme=tokyonight&layout=compact" alt="RupeshMax :: Wakatime" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&langs_count=10&theme=flag-india&layout=compact" alt="RupeshMax :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&langs_count=4&theme=flag-india" alt="RupeshMax :: Wakatime" />
 </p>
 
 
