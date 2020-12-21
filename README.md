@@ -49,8 +49,14 @@ if __name__ == '__main__':
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&langs_count=4&theme=flag-india" alt="RupeshMax :: Wakatime" />
 </p>
 
+<h3>  Connect with Me 🤝🏻</h3>
 
-
+<p align="center">
+&nbsp; <a href="https://twitter.com/RupeshMaxpain" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/rupesh_max_07/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/rubeshkr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:rupesh.maxpain@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 
 ⭐️ From [RupeshMax](https://github.com/RupeshMax)
