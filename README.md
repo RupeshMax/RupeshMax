@@ -4,7 +4,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{RupeshMax}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{RupeshMax}/count.svg" alt="RupeshMax :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -16,8 +16,29 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RupeshMax&show_icons=true&theme=synthwave" alt="RupeshMax :: Profile Stats" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&show_icons=true)
 
+
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
+
+
+
+⭐️ From [RupeshMax](https://github.com/RupeshMax)
 <!--
 **RupeshMax/RupeshMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
