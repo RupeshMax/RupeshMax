@@ -1,6 +1,6 @@
 ### Hi!, I'm Rubesh KR 👋
 
-<p align="center"><img src="https://github.com/RupeshMax/RupeshMax/blob/main/python.gif" alt="Welcome!"/></p>
+<p align="center"><img src="https://github.com/RupeshMax/RupeshMax/blob/main/python.gif" alt="Welcome!" width="500"/></p>
 
 
 
