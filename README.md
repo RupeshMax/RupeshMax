@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshMax&langs_count=10&theme=flag-india&layout=compact" alt="RupeshMax :: Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&langs_count=4&theme=flag-india" alt="RupeshMax :: Wakatime" />
+
 </p>
 
 <h2 align="center">  Connect with Me 🤝🏻</h2>
